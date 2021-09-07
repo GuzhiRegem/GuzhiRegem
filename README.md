@@ -4,9 +4,11 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 <p align="right">-me, april 05 1585</p>
 
 <h2>Latest proyects:</h2>
-<h4>  -Low level and Algoritms</h4>
-<h5>    my printf</h5>
-<h5>    my simple_shell</h5>
-<h4>  -High Level</h4>
-<p>   -Python</p>
+<h4>-Low level and Algoritms</h4>
+<p><strong>printf function</strong><br>my own version of the "printf" written in c<br>Repository: printf</p>
+
+<p><strong>my shell</strong><br>a simple shell with various functionalities, written in c<br>_Repository: simple_shell_</p>
+
+<h4>-High Level</h4>
+<p>-Python</p>
 
