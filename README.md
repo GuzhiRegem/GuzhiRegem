@@ -9,6 +9,5 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 
 <p><strong>my shell</strong><br>a simple shell with various functionalities, written in c<br><em>repo: simple_shell</em></p>
 
-<h4>-High Level</h4>
-<p>-WIP</p>
-
+<h4>-Misc</h4>
+<p><strong>Holbie Tools</strong><br>a set of various tools to improve your work time with the HolbertonSchool curriculum<br><em>repo: holbietools</em></p>
