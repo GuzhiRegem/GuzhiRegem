@@ -5,9 +5,12 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 
 <h2>Latest proyects:</h2>
 <h4>-Low level and Algoritms</h4>
-<p><strong>printf function</strong><br>my own version of the "printf" written in c<br>Repository: printf</p>
+<p><strong>printf function</strong><br>my own version of the "printf" written in c</p>
+_<h5>Repo: printf</h5>_
 
-<p><strong>my shell</strong><br>a simple shell with various functionalities, written in c<br>_Repository: simple_shell_</p>
+<p><strong>my shell</strong><br>a simple shell with various functionalities, written in c</p>
+_<h5 sytle="color: green">Repo: simple_shell</h5>_
+
 
 <h4>-High Level</h4>
 <p>-Python</p>
