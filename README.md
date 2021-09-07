@@ -6,10 +6,10 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 <h2>Latest proyects:</h2>
 <h4>-Low level and Algoritms</h4>
 <p><strong>printf function</strong><br>my own version of the "printf" written in c</p>
-_<p>Repo: printf</p>_
+<p>Repo: printf</p>
 
 <p><strong>my shell</strong><br>a simple shell with various functionalities, written in c</p>
-_<p>Repo: simple_shell</p>_
+<p>Repo: simple_shell</p>
 
 
 <h4>-High Level</h4>
