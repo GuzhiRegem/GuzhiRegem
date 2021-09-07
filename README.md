@@ -10,5 +10,5 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 <p><strong>my shell</strong><br>a simple shell with various functionalities, written in c<br><em>repo: simple_shell</em></p>
 
 <h4>-High Level</h4>
-<p>-Python</p>
+<p>-WIP</p>
 
