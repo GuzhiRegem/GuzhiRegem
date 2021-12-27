@@ -8,6 +8,7 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 <p><strong>printf function</strong><br>my own version of the "printf" written in c<br><em>repo: printf</em></p>
 
 <p><strong>my shell</strong><br>a simple shell with various functionalities, written in c<br><em>repo: simple_shell</em></p>
-
+<h4>-High level & Web development</h4>
+<h4>-Systems Engineering / Devops</h4>
 <h4>-Misc</h4>
 <p><strong>Holbie Tools</strong><br>a set of various tools to improve your work time with the HolbertonSchool curriculum<br><em>repo: holbietools</em></p>
