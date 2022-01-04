@@ -1,3 +1,7 @@
+HolbieTools one line instalation:
+```
+source <(curl https://raw.githubusercontent.com/GuzhiRegem/holbietools/main/one_command)
+```
 <h1 align="center">About me</h1>
 
 _<h3 align="center">"born from a motherboard, my blood is on binary, my bones are copper"</h3>_
