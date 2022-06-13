@@ -9,7 +9,7 @@ _<h3 align="center">"born from a motherboard, my blood is on binary, my bones ar
 <p align="right">-me, april 05 1585</p>
 
 <h2>Latest proyects:</h2>
-<button>test</button>
+[This is an external link to genome.gov](https://www.genome.gov/)
 <h4>-Low level and Algoritms</h4>
 <p><strong>printf function</strong><br>my own version of the "printf" written in c<br><em>repo: printf</em></p>
 
