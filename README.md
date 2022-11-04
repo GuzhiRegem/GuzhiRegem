@@ -1,5 +1,5 @@
 ### PORTFOLIO (WIP):
-[QR](/frame.png)
+![QR](/frame.png)
 #### **[guzhiregem.github.io](https://guzhiregem.github.io/)**
   
 ---
